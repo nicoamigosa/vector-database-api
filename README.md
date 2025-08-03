@@ -48,7 +48,7 @@ vector_db/
 ### 1. Clone and set up
 
 ```bash
-git clone <repository>
+git clone https://github.com/nicoamigosa/vector-database-api.git
 cd vector_db_api
 
 # Create config file
